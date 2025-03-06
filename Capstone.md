@@ -100,7 +100,5 @@ cd terraform-consent-management
    - Create subdomain - Dele
    - Get HTTPS certs
    - Reformat Site Template
-   - 
-   - 
  - participatingsite3 - html / css / js and assets for site 3 - ForeverFlowers
 
