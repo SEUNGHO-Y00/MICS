@@ -2,6 +2,9 @@
 
 ## CYBER 295 Capstone
 
+* [Capstone Project Outline](https://github.com/SEUNGHO-Y00/MICS/blob/main/Capstone.md)
+* [Capstone Project](https://www.ischool.berkeley.edu/projects/2024/my-privacy-switch)
+
 ## CYBER 284 Web Application Security Assessment
 
 ## CYBER 207 Applied Machine Learning for Cybersecurity
