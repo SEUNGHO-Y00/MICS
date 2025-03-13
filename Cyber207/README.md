@@ -1,6 +1,6 @@
 # CYBER 207: Applied Machine Learning for Cybersecurity
 
-1. Introduction & Framing
+1. [Introduction & Framing](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/Introduction%26Framing.md)
 
 2. Linear Regression & Gradient Descent
 
