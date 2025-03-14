@@ -7,6 +7,9 @@
 
 ## CYBER 284 Web Application Security Assessment
 
+* [CISO Recognition Letter](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber284/RecognitionLetter.md)
+* [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/CYBER%20284/README.md)
+
 ## CYBER 207 Applied Machine Learning for Cybersecurity
 
 * [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/README.md)
