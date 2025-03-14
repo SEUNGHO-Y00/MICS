@@ -2,7 +2,7 @@
 
 1. [Introduction & Framing](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/Introduction%26Framing.md)
 
-2. Linear Regression & Gradient Descent
+2. [Linear Regression & Gradient Descent](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/LinearRegression.md)
 
 3. KNN, Decision Trees, and Ensembles
 
