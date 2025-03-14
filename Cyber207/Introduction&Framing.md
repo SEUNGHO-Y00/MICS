@@ -1,6 +1,6 @@
 # Introduction & Framing
 
-## 1.1 Course Introduction
+## Part 1.
 
 * Supervised learning vs Unsupervised learning
 
@@ -16,33 +16,20 @@ Evaluation Metrics | Accuracy, Precision, Recall, RMSE, MSE | Silhouette Score, 
 * A Seq2Seq (Sequence-to-Sequence) model is a neural network architecture that transforms one sequence (like a sentence) into another sequence, often used for tasks like machine translation, text summarization, and chatbots. It consists of an encoder and a decoder, where the encoder processes the input sequence and the decoder generates the output sequence. 
   - [Resource](https://google.github.io/seq2seq/)
 
-## 1.2 What Is a Function?
-
-
-## 1.3 Function Testing
+## Part 2.
 
 * Applications of ML and data science in security
   - Classification of attacker behavior, access patterns
 * Adversarial Machine Learning
 * ML used in offensive techniques
 
-## 1.4 Generalization
-
-
-## 1.5 Machine Learning Framing
-
 * ML + Security
   - Synthactic signature matching fails when you have polymorphic adversaries
   - Bug classes grow exponentially with system complexity, exceeding exhaustive analytical capabilities
   - ML excels at pattern matching anomaly detection, and information mining in complex space
+ 
+## Part 3.
 
-## 1.6 Example 1: Lung Cancer Screening
-
-## 1.7 Example 2: Sports Outcomes
-
-## 1.8 Example 3: Energy Usage
-
-## Examples of Class
 * W1 - Tutorial intro.ipynb
   - familiarize you with some basics of numpy, matplotlib, and sklearn
 * W1 - Tour-de-classifier.ipynb
@@ -52,3 +39,22 @@ Evaluation Metrics | Accuracy, Precision, Recall, RMSE, MSE | Silhouette Score, 
 
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
+
+## Class Supporting Video
+
+1.1 Course Introduction
+
+1.2 What Is a Function?
+
+1.3 Function Testing
+
+1.4 Generalization
+
+1.5 Machine Learning Framing
+
+1.6 Example 1: Lung Cancer Screening
+
+1.7 Example 2: Sports Outcomes
+
+1.8 Example 3: Energy Usage
+
