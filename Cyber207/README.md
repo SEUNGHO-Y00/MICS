@@ -6,7 +6,7 @@
 
 3. [KNN, Decision Trees, and Ensembles](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/KNN.md)
 
-4. Feature Engineering
+4. [Feature Engineering](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/FeatureEngineering.md)
 
 5. Logistic Regression
 
