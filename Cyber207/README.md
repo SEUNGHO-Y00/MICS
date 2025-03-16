@@ -4,7 +4,7 @@
 
 2. [Linear Regression & Gradient Descent](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/LinearRegression.md)
 
-3. KNN, Decision Trees, and Ensembles
+3. [KNN, Decision Trees, and Ensembles](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/KNN.md)
 
 4. Feature Engineering
 
