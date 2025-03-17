@@ -8,7 +8,7 @@
 
 4. [Feature Engineering](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/FeatureEngineering.md)
 
-5. Logistic Regression
+5. [Logistic Regression](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/LogisticRegression.md)
 
 6. Unsupervised Learning: k-Means and PCA
 
