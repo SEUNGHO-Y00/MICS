@@ -10,7 +10,7 @@
 
 5. [Logistic Regression](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/LogisticRegression.md)
 
-6. Unsupervised Learning: k-Means and PCA
+6. [Unsupervised Learning: k-Means and PCA](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/UnsupervisedLearning.md)
 
 7. Feedforward Neural Networks
 
