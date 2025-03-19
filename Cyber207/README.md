@@ -12,7 +12,7 @@
 
 6. [Unsupervised Learning: k-Means and PCA](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/UnsupervisedLearning.md)
 
-7. Feedforward Neural Networks
+7. [Feedforward Neural Networks](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/NeuralNetworks.md)
 
 8. Embeddings for Text
 
