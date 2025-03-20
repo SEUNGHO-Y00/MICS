@@ -7,7 +7,7 @@
 ## Part 1.
 
 * [Principal Component Analysis](https://setosa.io/ev/principal-component-analysis/)
-W9 - Word2Vec.ipynb
+* W9 - Word2Vec.ipynb
 
 ## Part 2.
 
