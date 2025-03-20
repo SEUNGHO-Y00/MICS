@@ -14,7 +14,7 @@
 
 7. [Feedforward Neural Networks](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/NeuralNetworks.md)
 
-8. Embeddings for Text
+8. [Embeddings for Text](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/Embeddings.md)
 
 9. Convolutional Neural Networks
 
