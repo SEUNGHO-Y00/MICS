@@ -13,7 +13,7 @@
 
 * Gaussian Mixture Models
   - a machine learning method used to determine the probability each data point belongs to a given cluster.
-GMM.ipynb
+* GMM.ipynb
 
 ## Class Supporting Video
 
