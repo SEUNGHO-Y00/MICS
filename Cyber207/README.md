@@ -16,7 +16,7 @@
 
 8. [Embeddings for Text](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/Embeddings.md)
 
-9. Convolutional Neural Networks
+9. [Convolutional Neural Networks](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/ConvolutionalNeuralNetworks.md)
 
 10. Network Architecture Design
 
