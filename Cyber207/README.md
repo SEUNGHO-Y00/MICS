@@ -18,7 +18,7 @@
 
 9. [Convolutional Neural Networks](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/ConvolutionalNeuralNetworks.md)
 
-10. Network Architecture Design
+10. [Network Architecture Design](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/NetworkArchitectureDesign.md)
 
 11. Fairness
 
