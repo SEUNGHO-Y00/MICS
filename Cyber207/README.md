@@ -20,6 +20,6 @@
 
 10. [Network Architecture Design](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/NetworkArchitectureDesign.md)
 
-11. Fairness
+11. [Fairness](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/Fairness.md)
 
 12. Project Presentations
