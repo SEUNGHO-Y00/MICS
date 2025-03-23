@@ -18,6 +18,8 @@
 
 ## CYBER 210 Network Security
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/README.md)
+
 ## CYBER 233 Privacy Engineering
 
 ## CYBER 202 Cryptography for Cyber and Network Security
