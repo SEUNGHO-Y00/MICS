@@ -22,4 +22,4 @@
 
 11. [Fairness](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/Fairness.md)
 
-12. Project Presentations
+12. [Project Presentations](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/ProjectPresentations.md)
