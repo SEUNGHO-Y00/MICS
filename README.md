@@ -12,6 +12,7 @@
 
 ## CYBER 207 Applied Machine Learning for Cybersecurity
 
+* [Final Presentation](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/ProjectPresentations.md)
 * [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber207/README.md)
 
 ## CYBER 211 Operating System Security
