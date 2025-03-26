@@ -1,6 +1,6 @@
 # CYBER 210: Network Security
 
-1. Introduction to Network Security
+1. [Introduction to Network Security](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/Introduction.md)
 
 2. Ethernet
 
