@@ -4,7 +4,7 @@
 
 2. [Ethernet](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/Ethernet.md)
 
-3. Internet Protocol (IP)
+3. [Internet Protocol (IP)](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/IP.md)
 
 4. ARP and DHCP
 
