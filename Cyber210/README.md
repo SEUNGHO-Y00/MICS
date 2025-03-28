@@ -2,7 +2,7 @@
 
 1. [Introduction to Network Security](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/Introduction.md)
 
-2. Ethernet
+2. [Ethernet](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/Ethernet.md)
 
 3. Internet Protocol (IP)
 
