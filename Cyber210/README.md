@@ -6,7 +6,7 @@
 
 3. [Internet Protocol (IP)](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/IP.md)
 
-4. ARP and DHCP
+4. [ARP and DHCP](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/ARPandDHCP.md)
 
 5. UDP and TCP
 
