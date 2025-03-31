@@ -10,7 +10,7 @@
 
 5. [UDP and TCP](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/UDPandTCP.md)
 
-6. DNS
+6. [DNS](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/DNS.md)
 
 7. HTTP and TLS
 
