@@ -12,7 +12,7 @@
 
 6. [DNS](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/DNS.md)
 
-7. HTTP and TLS
+7. [HTTP and TLS](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/HTTPandTLS.md)
 
 8. VPN and SSH
 
