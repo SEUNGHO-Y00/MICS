@@ -14,7 +14,7 @@
 
 7. [HTTP and TLS](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/HTTPandTLS.md)
 
-8. VPN and SSH
+8. [VPN and SSH](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/VPNandSSH.md)
 
 9. Wireless
 
