@@ -16,7 +16,7 @@
 
 8. [VPN and SSH](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/VPNandSSH.md)
 
-9. Wireless
+9. [Wireless](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/Wireless.md)
 
 10. Software Defined Networking (SDN)
 
