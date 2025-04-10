@@ -23,6 +23,8 @@
 
 ## CYBER 233 Privacy Engineering
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber233/README.md)
+
 ## CYBER 202 Cryptography for Cyber and Network Security
 
 ## CYBER 204 Software Security
