@@ -17,6 +17,8 @@
 
 ## CYBER 211 Operating System Security
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MICS/tree/main/Cyber211/README.md)
+
 ## CYBER 210 Network Security
 
 * [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber210/README.md)
