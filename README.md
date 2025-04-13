@@ -29,6 +29,8 @@
 
 ## CYBER 202 Cryptography for Cyber and Network Security
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber202/README.md)
+
 ## CYBER 204 Software Security
 
 ## CYBER 206 Programming Fundamentals for Cybersecurity
