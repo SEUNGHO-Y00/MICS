@@ -33,6 +33,8 @@
 
 ## CYBER 204 Software Security
 
+* [Study Note](https://github.com/SEUNGHO-Y00/MICS/blob/main/Cyber204/README.md)
+
 ## CYBER 206 Programming Fundamentals for Cybersecurity
 
 ## CYBER 200 Beyond the Code: Cybersecurity in Context
